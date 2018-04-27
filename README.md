@@ -1,6 +1,6 @@
 Objective
 ===
-Make a responsive multipaged art themed website. Use a combination of CSS Grid and Flexbox. Follow the Webpack component and router architecture in vanilla JS. Upload images to Cloudinary and load them with responsive Picture component. Apply subtle animations.
+Make a responsive multipaged art themed website. Use a combination of CSS Grid and Flexbox. Follow the Webpack component and router architecture in vanilla JS. Upload images to Cloudinary and load them with responsive Picture component. Apply subtle animations. Utilize the <picture> <source> elements with srcset attribute to create responsive images.
 
 Steps Taken
 ===
